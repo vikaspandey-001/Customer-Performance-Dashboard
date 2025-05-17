@@ -1,6 +1,7 @@
 # 📊 Customer Performance Dashboard
 
-## Power BI Project Documentation
+## Power BI Project Documentation  
+[View full article with DAX on LinkedIn](https://www.linkedin.com/pulse/building-power-bi-customer-performance-dashboard-from-vikas-pandey-kb8sc)
 
 ---
 
@@ -136,7 +137,7 @@ The Power BI development process followed the below stages:
 ### 📂 Dataset
 
 **Source:** Customer Transaction Dataset  
-[https://github.com/vikaspandey-001/Customer-Performance-Dashboard.git](https://github.com/vikaspandey-001/Customer-Performance-Dashboard.git)
+[Download Dataset from GitHub](https://github.com/vikaspandey-001/Customer-Performance-Dashboard.git)
 
 ---
 
